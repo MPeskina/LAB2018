@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Художник" as Художник {
+ Канцелярские принадлежности
+Рисунок Рисовать (Эмоции, Свободное время)
+}
+hide circle
+@enduml
