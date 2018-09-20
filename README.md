@@ -10,3 +10,5 @@
 * [IDEF0-диаграмма в формате .rsf](https://github.com/MPeskina/LAB2018/blob/master/idef0.rsf)
 
 #### Создание диаграммы классов и диаграммы прецедентов "Создание рисунка" в PLANTUML (программное средство автоматической генерации UML-диаграмм)
+* [Текст](http://www.plantuml.com/plantuml/uml/NP2zIWD158Nhp5DSKYdu434-XFMmEvWbansviy52XFn0AY6zbHQMGWoxCYJPzHNEVIDlt4Oi1ivyvznpXnd5od8rdtaJfqLvRzdEAFCsHdeqWx7DfdSSvcL-4tnWkfqKbJE3Q-Rmq9EnruW60-UE_w8dqxSCyIvhrEZmXHO9Xo7PIF-XBYEyO8TMDcXmbAqiP8c3UWtXMnOgMhLh7DK-3tMob1MImIkIolKPQKz_LRd7JbRoJ1Vum4dJ6oIaAyAREXq-zTI_8rg_r_e69zbUwgidHUueApZppenScUlF_000) и рисунок<br>
+![none](https://github.com/MPeskina/LAB2018/blob/master/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2.png)
