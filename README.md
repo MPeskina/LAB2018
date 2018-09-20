@@ -7,4 +7,4 @@
 
 * IDEF0-диаграмма в развернутом виде:
 ![none](https://github.com/MPeskina/LAB2018/blob/master/model.png)
-* [IDEF0-диаграмма в формате .rsf]
+* [IDEF0-диаграмма в формате .rsf](https://github.com/MPeskina/LAB2018/blob/master/idef0.rsf)
