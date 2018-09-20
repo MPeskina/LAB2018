@@ -17,3 +17,19 @@
 * [Текст](https://github.com/MPeskina/LAB2018/blob/master/uml2.txt) и рисунок<br>
 ![none](http://www.plantuml.com/plantuml/png/fL4_IyD059zxd-AHIOU27q2agNCWc_EHd6recfEx2mvMQ2fq4hgAauku5caqL1A_mdlVoDUaXUmEnpr-VtxtUzp8EcbSFa-5dINPdJHo3Z9osi2368nbD9iOdMVnjKuPkfacJec1Ruo-xv1noX8MQXChquSUUtcvLP6qwj-9gRfru3IOP39r42T6HIxHcUZwXXSWBNZuWIN-O8EVVE-z8naSoHVynbqhg6ZZdPmTzqvFp3NuXJLMFMl7lk8MQreVlBIX9HMuPrK9-4jB7cgcTnnRjlQ62bfXvOdJwduNyiRF5cstBQtesHCX38TmvfyBFeSn4Bp6vOAdK0GCBAwukXYfBEOl-WC0)<br>
 [диаграммы прецедентов](http://www.plantuml.com/plantuml/png/fL4_IyD059zxd-AHIOU27q2agNCWc_EHd6recfEx2mvMQ2fq4hgAauku5caqL1A_mdlVoDUaXUmEnpr-VtxtUzp8EcbSFa-5dINPdJHo3Z9osi2368nbD9iOdMVnjKuPkfacJec1Ruo-xv1noX8MQXChquSUUtcvLP6qwj-9gRfru3IOP39r42T6HIxHcUZwXXSWBNZuWIN-O8EVVE-z8naSoHVynbqhg6ZZdPmTzqvFp3NuXJLMFMl7lk8MQreVlBIX9HMuPrK9-4jB7cgcTnnRjlQ62bfXvOdJwduNyiRF5cstBQtesHCX38TmvfyBFeSn4Bp6vOAdK0GCBAwukXYfBEOl-WC0)
+***
+
+### Лабораторная работа №2
+***
+
+### Лабораторная работа №3
+***
+
+### Лабораторная работа №4
+***
+
+### Лабораторная работа №5
+***
+
+### Лабораторная работа №6
+***
