@@ -23,7 +23,18 @@
 ### Лабораторная работа №2
 ***
 * IDEF0
+
 ![none](https://github.com/MPeskina/LAB2018/blob/master/01_A0.png)
+
+* Plan-Do-CHeck
+
+![none](https://github.com/MPeskina/LAB2018/blob/master/02_A0.png)
+
+* DFD
+
+![none](https://github.com/MPeskina/LAB2018/blob/master/03_A1.png)
+
+***
 ### Лабораторная работа №3
 ***
 
