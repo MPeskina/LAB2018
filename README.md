@@ -26,7 +26,7 @@
 
 ![none](https://github.com/MPeskina/LAB2018/blob/master/01_A0.png)
 
-* Plan-Do-CHeck
+* Plan-Do-Check
 
 ![none](https://github.com/MPeskina/LAB2018/blob/master/02_A0.png)
 
