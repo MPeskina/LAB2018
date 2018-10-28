@@ -38,7 +38,34 @@
 ***
 ### Лабораторная работа №3
 ***
+#### Определение способов существования информации
 
+Цель: Разработка информационной системы<br>
+Точка зрения: Владелец книжного издательства<br>
+Область моделирования: Потоки данных издательства<br>
+
+* Главный контекст модели
+
+![none](https://github.com/MPeskina/LAB2018/blob/master/%D0%9B%D0%A03_A0.png)
+
+* А0. Работа книжного издательства
+
+![none](https://github.com/MPeskina/LAB2018/blob/master/%D0%9B%D0%A03_A0(1).png)
+
+* А2. Прием заказов на печать
+
+![none](https://github.com/MPeskina/LAB2018/blob/master/%D0%9B%D0%A03_A2.png)
+
+* А3. Печать заказов
+
+![none](https://github.com/MPeskina/LAB2018/blob/master/%D0%9B%D0%A03_A3.png)
+
+[Диаграмма в формате .rsf](https://github.com/MPeskina/LAB2018/blob/master/%D0%BB%D0%B0%D0%B1%D0%B03.rsf)
+
+* ERD-диаграмма для всех потоков
+
+![none](https://github.com/MPeskina/LAB2018/blob/master/ERD-%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0.png)
+***
 ### Лабораторная работа №4
 ***
 
