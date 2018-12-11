@@ -84,7 +84,7 @@
 
 * Декомпозиция диаграммы уровня А0 (А1-А4) на 4 блока
 
-![A1-А4](https://github.com/MPeskina/LAB2018/blob/master/KR/02_A0.png)
+![A1-А4](https://github.com/MPeskina/LAB2018/blob/master/KR/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%BC%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%82%D0%B0%D0%BC%D0%B8.png)
 
 * Декомпозиция блока А1 "Утверждение индивидуальных планов"
 
