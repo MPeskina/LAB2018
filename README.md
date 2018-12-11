@@ -109,9 +109,9 @@
 
 ![A11](https://github.com/MPeskina/LAB2018/blob/master/KR/04_A11.png)
 
-* Декомпозиция блока А12 "Удаление некорректного плана с сервера"
+* Декомпозиция блока А14 "Удаление некорректного плана с сервера"
 
-![A12](https://github.com/MPeskina/LAB2018/blob/master/KR/05_A12.png)
+![A12](https://github.com/MPeskina/LAB2018/blob/master/KR/05_A14.png)
 
 ### Лабораторная работа №6
 ***
