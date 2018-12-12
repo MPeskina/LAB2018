@@ -1,0 +1,46 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+
+class Entity as "Потоки"
+
+class in as "Входящие"
+class control as "Управляющие"
+class out as "Выходящие"
+
+class Info as "Данные о магистрантах"
+class Shablon as "Шаблоны учебных планов"
+
+class inst as "Инструкция по заполнению ИП"
+class FZ as "ФЗ об образовании"
+class polozh as "Положение о \n магистратуре ФГБОУ \n ВО "МГТУ "СТАНКИН""
+class order as "Приказ ректора"
+
+class sogpl as "Согласованный печатный \n план"
+class usp as "Проанализированные данные \n об успеваемости"
+class sost as "Инфомация о состоянии \n студента"
+
+
+Entity <|-- in
+Entity <|-- control
+Entity <|-- out
+
+in <|-- Info
+in <|-- Shablon
+
+control <|-- inst
+control <|-- FZ
+control <|-- polozh
+control <|-- order
+
+out <|-- sogpl
+out <|-- usp
+out <|-- sost
+
+hide members
+hide circle
+hide methods
+@enduml
