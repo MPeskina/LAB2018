@@ -1,0 +1,19 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Модули"
+class FormPlan as "Форма \n составления ИП"
+class FormPr as "Форма печати ИП"
+class FormZ as "Форма заявки \n на удаление ИП"
+
+Entity <|-- FormPlan
+Entity <|-- FormPr
+Entity <|-- FormZ
+
+hide members
+hide circle
+hide methods
+@enduml
