@@ -80,11 +80,11 @@
 
 * Контекстная диаграмма А0 - "Работа с магистрантами"
 
-![A0](https://github.com/MPeskina/LAB2018/blob/master/KR/001_A0.png)
+![A0](https://github.com/MPeskina/LAB2018/blob/master/KR/01_A0.png)
 
 * Декомпозиция диаграммы уровня А0 (А1-А4) на 4 блока
 
-![A1-А4](https://github.com/MPeskina/LAB2018/blob/master/KR/002_A0.png)
+![A1-А4](https://github.com/MPeskina/LAB2018/blob/master/KR/02_A0.png)
 
 * Декомпозиция блока А1 "Утверждение индивидуальных планов"
 
@@ -96,7 +96,7 @@
 
 * Декомпозиция блока А4 "Анализ успеваемости"
 
-![A41-A43](https://github.com/MPeskina/LAB2018/blob/master/KR/007_A4.png)
+![A41-A43](https://github.com/MPeskina/LAB2018/blob/master/KR/07_A4.png)
 
 
 
