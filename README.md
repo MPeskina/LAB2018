@@ -80,23 +80,23 @@
 
 * Контекстная диаграмма А0 - "Работа с магистрантами"
 
-![A0](https://github.com/MPeskina/LAB2018/blob/master/KR/01_A0.png)
+![A0](https://github.com/MPeskina/LAB2018/blob/master/KR/001_A0.png)
 
 * Декомпозиция диаграммы уровня А0 (А1-А4) на 4 блока
 
-![A1-А4](https://github.com/MPeskina/LAB2018/blob/master/KR/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%BC%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%82%D0%B0%D0%BC%D0%B8.png)
+![A1-А4](https://github.com/MPeskina/LAB2018/blob/master/KR/002_A0.png)
 
 * Декомпозиция блока А1 "Утверждение индивидуальных планов"
 
-![A11-A15](https://github.com/MPeskina/LAB2018/blob/master/KR/03_A1.png)
+![A11-A15](https://github.com/MPeskina/LAB2018/blob/master/KR/003_A1.png)
 
 * Декомпозиция блока А3 "Сбор данных о промежуточных аттестациях"
 
-![A31-A33](https://github.com/MPeskina/LAB2018/blob/master/KR/06_A3.png)
+![A31-A33](https://github.com/MPeskina/LAB2018/blob/master/KR/006_A3.png)
 
 * Декомпозиция блока А4 "Анализ успеваемости"
 
-![A41-A43](https://github.com/MPeskina/LAB2018/blob/master/KR/07_A4.png)
+![A41-A43](https://github.com/MPeskina/LAB2018/blob/master/KR/007_A4.png)
 
 
 
@@ -107,11 +107,11 @@
 
 * Декомпозиция блока А11 "Создание ИП"
 
-![A11](https://github.com/MPeskina/LAB2018/blob/master/KR/04_A11.png)
+![A11](https://github.com/MPeskina/LAB2018/blob/master/KR/004_A11.png)
 
 * Декомпозиция блока А14 "Удаление некорректного плана с сервера"
 
-![A12](https://github.com/MPeskina/LAB2018/blob/master/KR/05_A14.png)
+![A12](https://github.com/MPeskina/LAB2018/blob/master/KR/005_A14.png)
 
 ### Лабораторная работа №6
 ***
